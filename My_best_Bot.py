@@ -2,7 +2,7 @@ import time
 import requests
 
 # Замените YOUR_TOKEN на ваш токен доступа к API
-TOKEN = 't.oHl9rSSAWsqx7CNJGNqB5CcRLjG4Akya_bLwleHLx8SVdFEaLQnnA4HH9dSA43WszCLetIdaun65KLHfDDnXyw'
+TOKEN = ''
 BROKER_ACCOUNT_ID = 'YOUR_BROKER_ACCOUNT_ID'
 BASE_URL = 'https://api-invest.tinkoff.ru/openapi/'
 
